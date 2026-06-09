@@ -10,8 +10,8 @@ body{
 }
 
 section{
-    background: wheat;
-    color: azure;
+    background: black;
+    color: white;
     padding: 15px;
     display: flex;
 }
